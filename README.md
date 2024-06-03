@@ -22,8 +22,6 @@ main.py
 
 Modifiez les variables GUILD_ID et CHANNEL_ID dans le script principal pour correspondre à l'identifiant de votre serveur et du canal vocal où vous souhaitez connecter les comptes.
 Remplacez par les identifiants de votre serveur (GUILD_ID) et canal vocal (CHANNEL_ID)
-GUILD_ID = 3828284338432872782
-CHANNEL_ID = 285832872872843
 
 # Utilisation
 Lancez le script principal :
