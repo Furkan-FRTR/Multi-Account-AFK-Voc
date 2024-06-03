@@ -7,19 +7,19 @@ Ce script permet de connecter plusieurs comptes Discord à un canal vocal en uti
 - Python 3.8+
 - Les bibliothèques Python (voir fichier requirements.txt)
 
-## Installation
+## Configuration
 
-1. Installez les dépendances : pip install -r requirements.txt
+Installez les dépendances : 
+pip install -r requirements.txt
 
-2. Ajoutez les tokens des comptes Discord dans le fichier token.txt, un token par ligne :
+Ajoutez les tokens des comptes Discord dans le fichier token.txt, un token par ligne :
 token1
 token2
 token3
 
-3. Lancer le script 
+Lancer le script 
 main.py
 
-## Configuration
 Modifiez les variables GUILD_ID et CHANNEL_ID dans le script principal pour correspondre à l'identifiant de votre serveur et du canal vocal où vous souhaitez connecter les comptes.
 Remplacez par les identifiants de votre serveur (GUILD_ID) et canal vocal (CHANNEL_ID)
 GUILD_ID = 3828284338432872782
