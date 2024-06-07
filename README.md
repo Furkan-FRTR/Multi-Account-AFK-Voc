@@ -17,11 +17,11 @@ token1
 token2
 token3
 
-Lancer le script 
-main.py
-
 Modifiez les variables GUILD_ID et CHANNEL_ID dans le script principal pour correspondre à l'identifiant de votre serveur et du canal vocal où vous souhaitez connecter les comptes.
 Remplacez par les identifiants de votre serveur (GUILD_ID) et canal vocal (CHANNEL_ID)
+
+Lancer le script 
+main.py
 
 # Utilisation
 Lancez le script principal :
